@@ -3,7 +3,7 @@ A necklace algorithm to determine the growth function of trinucleotide circular 
 
 # About
 
-Supporting software for the paper `A necklace algorithm to determine the growth function of trinucleotide circular codes`.
+Supporting software for the paper `A necklace algorithm to determine the growth function of trinucleotide circular codes`, openly published and available here: http://www.scienpress.com/journal_focus.asp?Main_Id=57&Sub_id=IV&Issue=859.
 When refering to this software, please cite
 
 ```bibtex
